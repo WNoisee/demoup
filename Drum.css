@@ -1,0 +1,183 @@
+*{
+    background-color: darkcyan;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 300px;
+    font-size: 10rem;
+    font-family: cursive;
+    cursor: pointer;
+    box-shadow: 0 5px 10px rgba(0,10,10,10);
+    background-color: darkseagreen;
+    color: lightgreen;
+}
+
+div {
+    text-align: center;
+}
+
+#wdrum {
+    width: 150px;
+    height: 150px;
+    font-size: 8rem;
+    font-family: cursive;
+    background-color: darkseagreen;
+    border-radius: 6px;
+    border: none;
+    cursor: pointer;
+    box-shadow: 0 5px 10px rgba(10,10,10,10);
+    color: rebeccapurple;
+}
+
+#adrum {
+    width: 150px;
+    height: 150px;
+    font-size: 8rem;
+    font-family: cursive;
+    background-color: darkseagreen;
+    border-radius: 6px;
+    border: none;
+    cursor: pointer;
+    box-shadow: 0 5px 10px rgba(10,10,10,10);
+    color: orange;
+}
+
+#sdrum {
+    width: 150px;
+    height: 150px;
+    font-size: 8rem;
+    font-family: cursive;
+    background-color: darkseagreen;
+    border-radius: 6px;
+    border: none;
+    cursor: pointer;
+    box-shadow: 0 5px 10px rgba(10,10,10,10);
+    color: green;
+}
+
+#ddrum {
+    width: 150px;
+    height: 150px;
+    font-size: 8rem;
+    font-family: cursive;
+    background-color: darkseagreen;
+    border-radius: 6px;
+    border: none;
+    cursor: pointer;
+    box-shadow: 0px 5px 10px rgba(10,10,10,10);
+    color: blueviolet;
+}
+
+#jdrum {
+    width: 150px;
+    height: 150px;
+    font-size: 8rem;
+    font-family: cursive;
+    background-color: darkseagreen;
+    border-radius: 6px;
+    border: none;
+    cursor: pointer;
+    box-shadow: 0 5px 10px rgba(10,10,10,10);
+    color: skyblue;
+}
+
+#kdrum {
+    width: 150px;
+    height: 150px;
+    font-size: 8rem;
+    font-family: cursive;
+    background-color: darkseagreen;
+    border-radius: 6px;
+    border: none;
+    cursor: pointer;
+    box-shadow: 0 5px 10px rgba(10,10,10,10);
+    color: greenyellow;
+}
+
+#ldrum {
+    width: 150px;
+    height: 150px;
+    font-size: 8rem;
+    font-family: cursive;
+    background-color: darkseagreen;
+    border-radius: 6px;
+    border: none;
+    cursor: pointer;
+    box-shadow: 0 5px 10px rgba(10,10,10,10);
+    color: blue;
+}
+
+footer {
+    margin-top: 100px;
+    font-family: cursive;
+    text-align: center;
+    color: whitesmoke;
+}
+
+#wdrum:active {
+    transform: scale(0.96);
+}
+
+#adrum:active {
+    transform: scale(0.96);
+}
+
+#sdrum:active {
+    transform: scale(0.96);
+}
+
+#ddrum:active {
+    transform: scale(0.96);
+}
+
+#jdrum:active {
+    transform: scale(0.96);
+}
+
+#kdrum:active {
+    transform: scale(0.96);
+}
+
+#ldrum:active {
+    transform: scale(0.96);
+}
+
+h1:hover{
+    box-shadow: 0px 5px 10px rgba(255, 255, 100, 255);
+    color: rgb(255, 255, 100);
+}
+
+#wdrum:hover{
+    box-shadow: 0px 5px 10px rgba(255, 100, 255, 255);
+    color: purple;
+}
+
+#adrum:hover{
+    box-shadow: 0px 5px 10px rgba(255,100,100,255);
+    color: rgb(255, 100, 100);
+}
+#sdrum:hover{
+    box-shadow: 0px 5px 10px rgba(0,255,100,255);
+    color: rgb(0, 255, 100);
+}
+#ddrum:hover{
+    box-shadow: 0px 5px 10px rgba(0,100,255,255);
+    color: rgb(0, 100, 255);
+}
+#jdrum:hover{
+    box-shadow: 0px 5px 10px rgba(0,255,200,255);
+    color: rgb(0, 255, 200);
+}
+#kdrum:hover{
+    box-shadow: 0px 5px 10px rgba(255, 255, 0, 255);
+    color: rgb(255, 255, 0);
+}
+#ldrum:hover{
+    box-shadow: 0px 5px 10px rgba(0,255,255,255);
+    color: rgb(0, 255, 255);
+}
+
+footer:hover{
+    color: darkgray;
+}
